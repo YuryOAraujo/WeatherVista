@@ -60,7 +60,7 @@ $(document).ready(function () {
             { minTemp: -20, color: 'rgba(78, 132, 216, 0.8)', accentColor: 'rgba(28, 91, 187, 0.8)'},
             { minTemp: -10, color: 'rgba(96, 149, 230, 0.8)', accentColor: 'rgba(42, 103, 197, 0.8)'},
             { minTemp: 0, color: 'rgba(121, 171, 249, 0.8)', accentColor: 'rgba(62, 119, 210, 0.8)'},
-            { minTemp: 10, color: 'rgba(252, 231, 135b, 0.8)', accentColor: 'rgba(248, 219, 89, 0.8)'},
+            { minTemp: 10, color: 'rgba(252, 231, 135, 0.8)', accentColor: 'rgba(248, 219, 89, 0.8)'},
             { minTemp: 20, color: 'rgba(237, 212, 99, 0.8)', accentColor: 'rgba(242, 210, 69, 0.8)'},
             { minTemp: 30, color: 'rgba(239, 125, 75, 0.8)', accentColor: 'rgba(209, 79, 21, 0.8)'},
             { minTemp: 40, color: 'rgba(248, 118, 61, 0.8)', accentColor: 'rgba(221, 72, 6, 0.8)'},
