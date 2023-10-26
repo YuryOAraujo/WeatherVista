@@ -51,3 +51,16 @@ A cor de fundo da página é atualizada de acordo com a temperatura atual. Quant
 
 Para usar o aplicativo, você pode simplesmente abrir o arquivo `index.html` em seu navegador. Certifique-se de que você tenha uma conexão com a internet para permitir a busca de dados de previsão do tempo da API do OpenWeatherMap.
 
+## Exemplos de Utilização
+![image](https://github.com/YuryOAraujo/WeatherVista/assets/127779626/45417034-2219-4702-be14-10525c073494)
+
+![image](https://github.com/YuryOAraujo/WeatherVista/assets/127779626/1e9c2047-2ec1-444d-8403-82b7bca5b839)
+
+![image](https://github.com/YuryOAraujo/WeatherVista/assets/127779626/5d191448-3763-41c4-b629-852ae8252f3f)
+
+![image](https://github.com/YuryOAraujo/WeatherVista/assets/127779626/cc93b216-499f-4bbf-b3bd-6a57d1b97ca9)
+
+
+
+
+
