@@ -11,7 +11,7 @@ body{
 .weatherCard{
     width: 400px;
     height: 100%;
-    background-color: rgba(0, 0, 0, 0.185);
+    background-color: rgba(100, 95, 95, 0.185);
     border: solid 3px #fff;
     border-radius: 15px;
 }
