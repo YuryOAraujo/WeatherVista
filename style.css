@@ -1,0 +1,58 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    background-color: lightblue;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+}
+
+.weatherCard{
+    width: 400px;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.185);
+    border: solid 3px #fff;
+    border-radius: 15px;
+}
+
+.weatherSearchIcon{
+    cursor: pointer;
+}
+
+.weatherTemp{
+    margin-top: 50px;
+    width: 100%;
+}
+
+.weatherTemp h1{
+    font-size: 7rem;
+}
+
+.weatherExtremes {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    margin-left: 5px;
+    font-size: 1.5rem;
+}
+
+.btn-group{
+    margin: auto;
+}
+
+.btn-group button{
+    width: 100px;
+}
+
+div{
+    border-radius: 10px;
+}
+
+.weatherCondition{
+    border: solid 1px #fff;
+}
+
+.weatherCondition{
+    margin-top: 50px;
+}
