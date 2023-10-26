@@ -1,4 +1,4 @@
-# Weather Vista - <a href="https://yuryoaraujo.github.io/WeatherVista/">Acesse aqui!</a>
+# Weather Vista - <a href="https://yuryoaraujo.github.io/WeatherVista/index.html">Acesse aqui!</a>
 
 Este é um webapp responsivo que permite aos usuários consultar informações de previsão do tempo para cidades de sua escolha, utilizando a API do OpenWeatherMap. O projeto inclui uma série de recursos para fornecer informações detalhadas e uma experiência de usuário agradável. Abaixo, você encontrará instruções sobre como utilizar o aplicativo, bem como detalhes sobre sua implementação.
 
